@@ -19,6 +19,7 @@ import logging
 import sys
 import yaml
 import spamwatch
+import os
 
 from telethon import TelegramClient
 import telegram.ext as tg
