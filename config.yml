@@ -16,7 +16,7 @@ workers: 4
 deepfry_token: None
 del_cmds: False
 sw_api: ''
-port: '8483'
+port: '8443'
 
 # Database
 database_url: "postgres://dvhbrdgztsdelm:7b753bdc85145fdfac6200c6f5a561b7dbcb6e2f67f4f88b7bbb055fc2f1bc96@ec2-54-158-190-214.compute-1.amazonaws.com:5432/d403bqu7rfkke0"
